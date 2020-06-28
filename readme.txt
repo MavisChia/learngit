@@ -1,4 +1,4 @@
-git is an app
+Git is an app
 git add
 Creating a new branch is quick and simple
 add merge
